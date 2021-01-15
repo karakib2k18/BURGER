@@ -293,7 +293,8 @@ font-family: 'Montserrat', sans-serif; */
     margin: 30px 0px;
     /* box-shadow: 10px 12px 13px 5px #D9D9D9;
     6px 18px 13px 6px */
-    box-shadow: 6px 15px 20px 5px #D9D9D9;
+/*     box-shadow: 6px 15px 20px 5px #D9D9D9; */
+     box-shadow: 6px 16px 20px 5px #D9D9D9;
     padding: 17px;
 }
 .left{
